@@ -1,7 +1,7 @@
 # Варіант 1
 import random
 
-
+# wizard class
 class Wizard:
     spells = [
         {
